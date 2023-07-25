@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://sourav01112.github.io/)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://Shreekant-totla.github.io/)
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <a href="https://sourav-portfolio-ten.vercel.app/" >I'm Shreekant Totla</a></h1>
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=10000&pause=1000&color=FFA000&center=true&vCenter=true&width=600&height=70&lines=A+passionate+Full+Stack+Web+Developer+From+India;Have+2160%2B+Hours+of+Coding+Experience" alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav01112&label=Profile%20views&color=0e75b6&style=flat" alt="sourav01112" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shreekant-totla&label=Profile%20views&color=0e75b6&style=flat" alt="Shreekant-totla" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 :man_technologist: <h3>About Me :</h3>
@@ -20,7 +20,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) 
-<!-- - 👨‍💻 All of my projects are available at [https://sourav01112.github.io/](https://sourav01112.github.io/) -->
+<!-- - 👨‍💻 All of my projects are available at [https://Shreekant-totla.github.io/](https://Shreekant-totla.github.io/) -->
 
 - 💬 Ask me about **JavaScript & React**
 
@@ -118,5 +118,5 @@
 <!-- // Working graph  -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreekant-totla&bg_color=000000&color=0aa4b8&line=eac510&point=ce1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- <a href="http://www.github.com/Sourav01112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shreekant-totla&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
- [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://sourav01112.github.io/) 
+<!-- <a href="http://www.github.com/Shreekant-totla"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shreekant-totla&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+ [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://Shreekant-totla.github.io/) 
