@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 - 🌱 I’m currently learning **Backend Development**
-- 👨‍💻 All of my projects are available at [https://rb.gy/yjf3y](https://rb.gy/yjf3y) 
+- 👨‍💻 All of my projects are available at [https://my-portfolio-eight-rho-85.vercel.app/](https://my-portfolio-eight-rho-85.vercel.app/) 
 <!-- - 👨‍💻 All of my projects are available at [https://Shreekant-totla.github.io/](https://Shreekant-totla.github.io/) -->
 
 - 💬 Ask me about **JavaScript & React**
