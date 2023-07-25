@@ -31,13 +31,13 @@
   <div id="badges" align="left">
     <img align="left" width="70" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
     <br/>
-  <a href="https://linkedin.com/in/sourav-chaudhary-214609155" target="_blank">
+  <a href="https://www.linkedin.com/in/shreekant-totla-9484811a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://sourav-portfolio-ten.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1LRCQqbDcyEB5ncmvZRE5RNDb8-4X1hp_/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1EecqWyQ_lmqXWUBaSEAm49aVKKCTaOuK/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
