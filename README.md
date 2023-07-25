@@ -102,21 +102,21 @@
 
 <!-- Commit Stats -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sourav01112&theme=vision-friendly-dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreekant-totla&theme=vision-friendly-dark)
 
 <!-- Github stats with Stars -->                                                                                                            
-<img src="https://github-readme-stats.vercel.app/api?username=Sourav01112&show_icons=true&theme=vision-friendly-dark" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Shreekant-totla&show_icons=true&theme=vision-friendly-dark" width="400">
 
 <!-- Top Langs -->    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav01112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreekant-totla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav01112" alt="sourav01112" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shreekant-totla" alt="Shreekant-totla" /></a> </p>
 <hr />
 
 <!-- // Working graph  -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sourav01112&bg_color=000000&color=0aa4b8&line=eac510&point=ce1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreekant-totla&bg_color=000000&color=0aa4b8&line=eac510&point=ce1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- <a href="http://www.github.com/Sourav01112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sourav01112&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<!-- <a href="http://www.github.com/Sourav01112"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shreekant-totla&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
  [![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://sourav01112.github.io/) 
